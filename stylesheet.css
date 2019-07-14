@@ -41,5 +41,13 @@ section{
             #2a8eb0 50%,
             #2a8eb0 25%
         );
-
+}
+.a-hole{
+    width:20px;
+    height:25px;
+    background-color: #f27424;
+    position:absolute;
+    top:10px;
+    left:15px;
+    border-radius: 10px;
 }
