@@ -66,3 +66,11 @@ section{
             );
 
 }
+.white-chunk{
+    width:25px;
+    height: 11px;
+    background-color: white;
+    position: absolute;
+    top:28px;
+    left:13px;
+}
